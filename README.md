@@ -1,2 +1,0 @@
-# AUMCA
-Frist Repo
